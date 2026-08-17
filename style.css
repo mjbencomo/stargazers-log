@@ -1,89 +1,14 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background: #f5f7fb;
-  color: #1f2937;
+  font-family: sans-serif;
+  margin: 2rem;
 }
 
-.container {
-  max-width: 900px;
-  margin: 3rem auto;
-  padding: 0 1.5rem;
-}
-
-h1 {
-  margin-bottom: 0.5rem;
-  font-size: 2.5rem;
-}
-
-.subtitle {
-  margin: 0 0 2rem;
-  color: #4b5563;
-  font-size: 1.05rem;
-}
-
-.repo-list {
+ul {
   list-style: none;
   padding: 0;
-  margin: 0;
-  display: grid;
-  gap: 1rem;
 }
 
-.repo-item {
-  background: #ffffff;
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  padding: 1rem 1.25rem;
-  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
-}
-
-.repo-link {
-  display: inline-block;
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: #111827;
-  text-decoration: none;
-  margin-bottom: 0.35rem;
-}
-
-.repo-link:hover {
-  text-decoration: underline;
-}
-
-.repo-description {
-  margin: 0 0 0.75rem;
-  color: #4b5563;
-  line-height: 1.5;
-}
-
-.repo-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  font-size: 0.9rem;
-  color: #6b7280;
-}
-
-.repo-language {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-}
-
-.dot {
-  width: 0.65rem;
-  height: 0.65rem;
-  border-radius: 50%;
-  background: #7c3aed;
-  display: inline-block;
-}
-
-.error {
-  color: #b91c1c;
-  font-weight: 600;
+li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
 }

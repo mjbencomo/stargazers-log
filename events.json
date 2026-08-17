@@ -1,34 +1,5 @@
 [
-  {
-    "name": "vercel/next.js",
-    "description": "The React Framework for the Web",
-    "language": "JavaScript",
-    "stargazers_count": 228000,
-    "html_url": "https://github.com/vercel/next.js",
-    "starred_at": "2026-08-01T10:30:00Z"
-  },
-  {
-    "name": "microsoft/vscode",
-    "description": "Visual Studio Code",
-    "language": "TypeScript",
-    "stargazers_count": 210000,
-    "html_url": "https://github.com/microsoft/vscode",
-    "starred_at": "2026-08-05T08:15:00Z"
-  },
-  {
-    "name": "tailwindlabs/tailwindcss",
-    "description": "A utility-first CSS framework for rapid UI development.",
-    "language": "CSS",
-    "stargazers_count": 89000,
-    "html_url": "https://github.com/tailwindlabs/tailwindcss",
-    "starred_at": "2026-08-09T13:45:00Z"
-  },
-  {
-    "name": "facebook/react",
-    "description": "The library for web and native user interfaces.",
-    "language": "JavaScript",
-    "stargazers_count": 221000,
-    "html_url": "https://github.com/facebook/react",
-    "starred_at": "2026-08-12T18:20:00Z"
-  }
+  { "name": "octocat/Hello-World", "starred": "2024-01-15" },
+  { "name": "github/docs", "starred": "2024-02-02" },
+  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
 ]
